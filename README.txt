@@ -7,6 +7,3 @@ also none of the games or links to other websites were made by me but added by d
 I have chosen to make this website's code public because github pages wont allow me to use https for some reason and i wanted to show that my website has 0 malware or trackers or cookies
 in the code and all of the games have been tested by me and are downloaded on my pc, so I know they are not viruses
 
-
-
-Made by Denys
